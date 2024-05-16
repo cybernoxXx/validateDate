@@ -1,0 +1,1 @@
+Validate a date. The script should be revisited because the code is not clean ad readable.
